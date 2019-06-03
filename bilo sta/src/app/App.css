@@ -1,0 +1,206 @@
+header {
+  margin-bottom: 3%;
+}
+
+nav {
+  color: white;
+}
+
+.profile {
+  text-align: center;
+  margin: 0 auto;
+}
+
+.profile img {
+  border-radius: 50%;
+  margin-bottom: 2%;
+}
+
+.profile h3 {
+  margin-bottom: 3%;
+}
+
+.profile span {
+  padding: 0.8%;
+  margin-left: 1%;
+  color: white;
+  background-color: gray;
+  border-radius: 15px;
+}
+
+footer {
+  text-align: center;
+  margin-top: 3%;
+  padding: 0;
+}
+
+footer .card-body {
+  padding: 0;
+}
+
+blockquote p {
+  margin: 0;
+  padding: 0.5% !important;
+}
+
+iframe {
+  width: 70%;
+  margin: 15px auto;
+}
+
+.card {
+  margin: 15px auto;
+  width: 70%;
+  background: lightgray;
+}
+
+img {
+  width: 30%;
+  margin: 15px auto
+}
+
+a {
+  color: black;
+}
+
+a:hover {
+  text-decoration: none;
+  color: black;
+}
+
+.comment {
+  text-align: right;
+}
+
+.comments {
+  margin-top: 20px;
+  background: white;
+  margin: 0 auto;
+  width: 100%;
+}
+
+.people li {
+  list-style-type: none;
+}
+
+.people img {
+  width: 50%;
+  margin-left: 6%;
+  border-radius: 50%;
+}
+
+.form-inline {
+  width: 60%;
+  margin: 0 auto !important;
+}
+
+.w-75 {
+  width: 94% !important;
+}
+
+.no-gutters {
+  box-shadow: 7px 7px 3px grey;
+}
+
+.editProfile input {
+  border: none;
+  border-bottom: solid 1px gray;
+  width: 100%;
+  margin-top: 2%;
+}
+
+.editProfile img {
+  width: 150px;
+  height: 150px;
+}
+
+form {
+  padding: 3%;
+}
+
+.comm {
+  width: 100px;
+  height: 70px;
+  margin: 0;
+  border-radius: 50%;
+  flex: none;
+  margin-left: 10px;
+}
+
+.commentOne {
+  flex: none;
+  margin: 0;
+  max-width: none;
+  text-align: left;
+}
+
+.btn-group-sm .btn-fab {
+  position: fixed !important;
+  right: 29px;
+}
+
+.btn-group .btn-fab {
+  position: fixed !important;
+  right: 20px;
+}
+
+#main {
+  bottom: 20px;
+}
+
+#mail {
+  bottom: 80px
+}
+
+#sms {
+  bottom: 125px
+}
+
+#autre {
+  bottom: 170px
+}
+
+.dropdown {
+  float: right;
+  position: fixed;
+}
+
+.newPost input {
+  margin-left: 5%;
+  width: 100% !important;
+}
+
+.post-input input {
+  width: 100%;
+  border: none;
+  border-bottom: 1px solid grey;
+}
+
+.post-input textarea {
+  width: 100%;
+  border: none;
+  border-bottom: 1px solid grey;
+  margin-left: 2%;
+}
+
+.postImg {
+  height: 600px;
+}
+
+.delete {
+  width: 10px;
+  text-align: center
+}
+
+.loginparagraf {
+  margin-left: 2%;
+  margin-top: 3%;
+}
+
+.textFeed {
+  font-size: 1.5em !important;
+}
+
+.errorMsg {
+  color: red;
+}
